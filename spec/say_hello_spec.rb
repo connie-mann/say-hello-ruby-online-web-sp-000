@@ -13,6 +13,8 @@ describe "say_hello" do
   end
 end
 
-def greeting (name)
-  puts "say_hello, #{name}"
+def say_hello (name = "Ruby Programming")
+  puts "Hello, #{name}!"
 end
+
+say_hello ("Gabriela")
