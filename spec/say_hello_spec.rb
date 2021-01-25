@@ -14,4 +14,4 @@ describe "say_hello" do
 end
 
 def say_hello
-  
+  puts "Hello Gabriela!"
