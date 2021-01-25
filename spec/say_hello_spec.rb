@@ -23,4 +23,4 @@ def greeting(language="Ruby", name)
   puts "Hello, #{name}. Hello #{language} programmer."
 end
 
-greeting ("Gabriela")
+greeting ("Ruby Programmer")
