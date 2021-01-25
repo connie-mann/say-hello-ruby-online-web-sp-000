@@ -19,5 +19,5 @@ end
 
 say_hello ("Gabriela")
 
-def greeting(name = "Ruby programmer")
-  puts "Hello, #{name}"
+
+
